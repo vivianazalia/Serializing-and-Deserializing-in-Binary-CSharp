@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "zeAkOPsQv0rTNi1k0b+BHvSzMtVKTSdRMLg3Ax8hdDT2BESrcZ9WDffK35scfXUNfll4VjYD7go6QEsgMRRxSA==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\SecurityProgram\\SecurityProgram\\SecurityProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VIVIAN\\.nuget\\packages\\bcrypt\\1.0.0\\bcrypt.1.0.0.nupkg.sha512",
+    "C:\\Users\\VIVIAN\\.nuget\\packages\\twileloop.expresssecurity\\1.0.0\\twileloop.expresssecurity.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'BCrypt 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "BCrypt",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

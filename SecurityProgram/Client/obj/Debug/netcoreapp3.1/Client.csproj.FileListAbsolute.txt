@@ -1,0 +1,13 @@
+D:\Project\SecurityProgram\Client\bin\Debug\netcoreapp3.1\Client.exe
+D:\Project\SecurityProgram\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+D:\Project\SecurityProgram\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+D:\Project\SecurityProgram\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+D:\Project\SecurityProgram\Client\bin\Debug\netcoreapp3.1\Client.dll
+D:\Project\SecurityProgram\Client\bin\Debug\netcoreapp3.1\Client.pdb
+D:\Project\SecurityProgram\Client\obj\Debug\netcoreapp3.1\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\SecurityProgram\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+D:\Project\SecurityProgram\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+D:\Project\SecurityProgram\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+D:\Project\SecurityProgram\Client\obj\Debug\netcoreapp3.1\Client.dll
+D:\Project\SecurityProgram\Client\obj\Debug\netcoreapp3.1\Client.pdb
+D:\Project\SecurityProgram\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
